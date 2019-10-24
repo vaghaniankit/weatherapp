@@ -2,7 +2,9 @@
 
 # Run scraper
 
+```bash
 scrapy crawl weatherscraper -a place_name='bangalore'
+```
 
 ## Installation
 
